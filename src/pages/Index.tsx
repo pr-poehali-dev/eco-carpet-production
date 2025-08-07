@@ -121,7 +121,7 @@ export default function Index() {
               {
                 title: "Стандартная серия",
                 price: "от 3 500 ₽",
-                image: "/img/9b1364ef-7ed4-42b9-a41a-887ba83265c5.jpg",
+                image: "https://cdn.poehali.dev/files/1c4fe268-ebf5-465a-88c3-a3aae56b1a6c.jpg",
                 features: ["Базовая экокожа", "Стандартные цвета", "Точная посадка"]
               },
               {
