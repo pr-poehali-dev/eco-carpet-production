@@ -120,19 +120,19 @@ export default function Index() {
             {[
               {
                 title: "Стандартная серия",
-                price: "от 3 500 ₽",
+                price: "от 9 000 ₽",
                 image: "https://cdn.poehali.dev/files/1c4fe268-ebf5-465a-88c3-a3aae56b1a6c.jpg",
                 features: ["Базовая экокожа", "Стандартные цвета", "Точная посадка"]
               },
               {
                 title: "Премиум серия",
-                price: "от 5 500 ₽",
+                price: "от 10 000 ₽",
                 image: "/img/5bfdb05c-7e3f-40d5-825d-d10a99880f45.jpg",
                 features: ["Премиум экокожа", "Широкая цветовая гамма", "Дополнительная прошивка"]
               },
               {
                 title: "VIP серия",
-                price: "от 8 500 ₽",
+                price: "от 11 500 ₽"
                 image: "/img/9b1364ef-7ed4-42b9-a41a-887ba83265c5.jpg",
                 features: ["Элитная экокожа", "Индивидуальный дизайн", "Логотип автомобиля"]
               }
